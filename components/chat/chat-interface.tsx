@@ -1,0 +1,1 @@
+<command>rm components/chat/chat-interface.tsx</command>

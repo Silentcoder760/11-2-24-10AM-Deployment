@@ -1,0 +1,1 @@
+<command>rm hooks/use-ollama-chat.ts</command>

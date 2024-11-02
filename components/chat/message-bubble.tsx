@@ -1,0 +1,1 @@
+<command>rm components/chat/message-bubble.tsx</command>
